@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There 👋
 
 <!--
 **shrutijain0/shrutijain0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="GIF"  width="300px" src="https://github.com/shrutijain0/shrutijain0/blob/main/ezgif.com-video-to-gif.gif" />
