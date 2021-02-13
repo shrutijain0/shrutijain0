@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with another fresher to work on End to End Project
 - 💬 Ask me about anything related to Data science or Programming will try my best  to answer.
 - ⚡ Fun fact: I am a BBA student who is self studying Data Science.
-- Contributing to open source for learning and helping other! Fork this repo and start comtributing :) (https://github.com/Kushal997-das/Project-Guidance.git)
+- Contributing to open source for learning and helping other! Fork this repo and start contributing :) (https://github.com/Kushal997-das/Project-Guidance.git)
 - <details> <summary> 📫 How to reach me::</summary><a href="mailto:shrutijain2may@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details>
 
