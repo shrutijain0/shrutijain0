@@ -1,9 +1,8 @@
 ### Hello There 👋
 <img align="right" alt="GIF" width="500px" src="https://github.com/shrutijain0/shrutijain0/blob/main/ezgif.com-video-to-gif.gif"/>
 
-- 🔭 I’m currently working as Data Analyst and on many Data Science Projects.
-- 🌱 I’m currently self learning Data Science and analytics.
-- 💬 Ask me about anything related to Data science or Programming will try my best to answer.
+- 🔭 I’m currently working as Data Analyst at Xeno.
+- 💬 Ask me about anything related to Data science or Programming or Personal Branding on LinkedIn will try my best to answer.
 - ⚡ Fun fact: I am a BBA student (Business Administration).
 - Contributing to open source for learning and helping other! Fork this repo and start contributing :) (https://github.com/Kushal997-das/Project-Guidance.git)
 - <details> <summary> 📫 How to reach me::</summary><a href="mailto:shrutijain2may@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
